@@ -41,7 +41,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  zhihu            : https://www.zhihu.com/people/lin-da-wang-9 # Username
+  zhihu            : lin-da-wang-9 # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
