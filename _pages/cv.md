@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+
+## 🎓 Education
+
+| Degree | Major | Institution | Year |
+| :--- | :--- | :--- | :--- |
+| **M.S.** | Hydrology | China University of Geosciences (Wuhan) | 2023 - Present |
+| **B.S.** | Geographic Information Science | Xi'an University of Science and Technology | 2019 - 2023 |
+
+**Honors & Awards:**
+- Outstanding Graduate (2023)
+- Outstanding Thesis (2023)
+- Recommended for Graduate Studies (Top 1/259)
+- Undergraduate GPA Rank: 1/59
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

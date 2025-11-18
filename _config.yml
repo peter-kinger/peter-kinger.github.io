@@ -22,13 +22,13 @@ repository               : "peter-kinger/peter-kinger.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images\XinLin_photo.jpg" # 放置头像的位置
   name             : "Xin Lin"
   pronouns         : # example: "she/her"  
-  bio              : "Graduate student at China University of Geosciences (Wuhan). Research interests: Deep Reinforcement Learning, Human-Earth Systems, Hyperspectral Image Reconstruction."
+  # bio              : "Graduate student at China University of Geosciences (Wuhan). Research interests: Deep Reinforcement Learning, Human-Earth Systems, Hyperspectral Image Reconstruction."
   location         : "Wuhan, Hubei"
   employer         : "China University of Geosciences (Wuhan)"
-  uri              : # URL
+  uri              : # URL 个人网站
   email            : "peter.org3s@gmail.com" 
 
   # Academic websites
@@ -37,7 +37,7 @@ author:
   googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : https://orcid.org/my-orcid?orcid=0000-0003-1731-1764 # URL
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
@@ -76,7 +76,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : https://www.zhihu.com/people/lin-da-wang-9 # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
