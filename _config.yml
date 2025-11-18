@@ -7,9 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Xin Lin"title_separator          : "-"
+locale                   : "en-US"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : "Xin Lin"
+title_separator          : "-"
 name                     : &name "Xin Lin"
 description              : &description "Xin Lin's academic portfolio"
 url                      : "https://peter-kinger.github.io" # !!! 重要：请根据你的实际网址修改
