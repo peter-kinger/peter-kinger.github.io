@@ -7,23 +7,19 @@ redirect_from:
   - /about.html
 ---
 
+I am a Master's student in Hydrology at China University of Geosciences (Wuhan), advised by [Xin Li](https://itpcas.cas.cn/new_skjs/new_xrld/202311/t20231103_6915472.html). Prior to this, I received my Bachelor's degree in Geographic Information Science at Xi'an University of Science and Technology, where I graduated with honors as an Outstanding Graduate with an Outstanding Thesis
 
+**Goal:** Apply deep reinforcement learning to solve complex problems in earth systems science.
 
-I am a Master's student in Hydrology at China University of Geosciences (Wuhan), advised by [Advisor Name]. I am currently a joint-training student at the Institute of Tibetan Plateau Research, Chinese Academy of Sciences (Third Pole Environment and Big Data Center).
+**Research Interest:** GeoAI | Deep reinforcement learning | earth system science | hyperspectral image processing
 
-I received my Bachelor's degree (ranked 1/259) in Geographic Information Science at Xi'an University of Science and Technology, where I graduated with honors as an Outstanding Graduate with an Outstanding Thesis.
-
-**Goal:** Apply deep reinforcement learning to solve complex problems in human-earth systems.
-
-**Research Interest:** The intersection of deep reinforcement learning, earth system science, and hyperspectral image processing.
-
-**Research Question:** How can we leverage deep reinforcement learning to optimize decision-making trajectories in complex human-earth coupled systems for sustainable environmental management?
+**Research Question:** How can we use reinforcement learning to play a greater role in Earth system decision-making?
 
 **Passion:** I am passionate about using AI and data-driven approaches to address critical challenges in geosciences and environmental systems.
 
 Email: peter.org3s@gmail.com
 
----
+
 
 ## News 
 
@@ -33,29 +29,35 @@ Email: peter.org3s@gmail.com
 - [11/2023] Presented paper on hyperspectral image reconstruction at ICIG 2023.
 
 
-
-##  Selected Publications
+## Selected Publications
 
 See [Publications](/publications/) page for a complete list.
 
-##  Service & Outreach
 
-**GIS-info-LLM Project** | [GISphere Institute]  
-Contributing to an open-source project using web crawling and large language models (GPT) to collect and analyze faculty recruitment information from North American GIS institutions, providing comprehensive resources for GIS professionals and students.
+
+## Projects
+
+<div style="display: flex; gap: 20px; margin-bottom: 30px; align-items: flex-start;">
+  <img src="/images/gisphere.png" alt="GISphere" style="width: 180px; height: 135px; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); flex-shrink: 0; background: #f8f9fa; padding: 15px;">
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0;">GIS-info-LLM Project</h3>
+    <p><a href="https://gisphere.info/">GISphere Institute</a></p>
+    <p>Contributing to an open-source project using web crawling and large language models (GPT) to collect and analyze faculty recruitment information from North American GIS institutions, providing comprehensive resources for GIS professionals and students.</p>
+  </div>
+</div>
 
 
 ## Technical Skills
 
-**Programming Languages:** Python (Primary), MATLAB, Java, LaTeX
+**Programming Languages:** Python (Primary), MATLAB, LaTeX, Java
 
-**Machine Learning Frameworks:** PyTorch, NumPy, Stable-Baselines3, OpenAI Gym
+**Machine Learning Frameworks:** PyTorch, NumPy, Pandas, Stable-Baselines3, OpenAI Gym
 
-**GIS & Remote Sensing Software:** ENVI, ArcGIS, MapGIS, ERDAS IMAGINE, VirtuoZo
+**GIS & Remote Sensing Software:** ENVI, ArcGIS, MapGIS
 
 **Data Analysis:** Spatiotemporal analysis, statistical modeling, data visualization
 
----
 
-##  Collaboration
+## Collaboration
 
 I am always open to collaborations and discussions on topics related to deep reinforcement learning, earth system science, and remote sensing. Feel free to reach out via email!

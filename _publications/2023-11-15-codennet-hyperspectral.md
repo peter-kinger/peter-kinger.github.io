@@ -1,13 +1,11 @@
 ---
-title: "Hyperspectral Image Super-Resolution using CoDenNet"
+title: "Coupled Dense Convolutional Neural Networks with Autoencoder for Unsupervised Hyperspectral Super-Resolution"
 collection: publications
 category: conferences
 permalink: /publication/2023-11-15-codennet-hyperspectral
 excerpt: 'This paper presents CoDenNet, a coupled dense convolutional network with autoencoder for unsupervised hyperspectral image super-resolution reconstruction.'
-date: 2023-11-15
-venue: 'International Conference on Image and Graphics (ICIG 2023)'
-paperurl: 'https://peter-kinger.github.io/files/icig2023-codennet.pdf'
-citation: 'Lin, X., et al. (2023). &quot;Hyperspectral Image Super-Resolution using CoDenNet.&quot; <i>Proceedings of ICIG 2023</i>. Springer, pp. 100-110.'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-46317-4_14'
+citation: 'Lin, X. et al. (2023). Coupled Dense Convolutional Neural Networks with Autoencoder for Unsupervised Hyperspectral Super-Resolution. In: Lu, H., et al. Image and Graphics . ICIG 2023. Lecture Notes in Computer Science, vol 14359. Springer, Cham. https://doi.org/10.1007/978-3-031-46317-4_14'
 ---
 
 ## Abstract
