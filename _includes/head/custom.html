@@ -5,6 +5,22 @@
 <!-- Support for Academicons -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
+<!-- Custom styles for larger social icons -->
+<style>
+  .author__urls.social-icons li a {
+    font-size: 1.2em !important;  /* 增大图标尺寸 */
+    padding: 8px 5px !important;   /* 增加内边距 */
+  }
+  
+  .author__urls.social-icons li a i {
+    font-size: 1.3em !important;   /* 图标本身放大 */
+  }
+  
+  .author__urls.social-icons li {
+    margin-bottom: 8px !important; /* 增加图标间距 */
+  }
+</style>
+
 <!-- favicon from https://commons.wikimedia.org/wiki/File:OOjs_UI_icon_academic-progressive.svg -->
 <link rel="apple-touch-icon" sizes="180x180" href="{{ base_path }}/images/apple-touch-icon-180x180.png"/>
 <link rel="icon" type="image/svg+xml" href="{{ base_path }}/images/favicon.svg"/>

@@ -7,18 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Hydrology at China University of Geosciences (Wuhan), advised by [Xin Li](https://itpcas.cas.cn/new_skjs/new_xrld/202311/t20231103_6915472.html). Prior to this, I received my Bachelor's degree in Geographic Information Science at Xi'an University of Science and Technology, where I graduated with honors as an Outstanding Graduate with an Outstanding Thesis
+Hi! I am a Master's student in Hydrology at China University of Geosciences (Wuhan), advised by [Xin Li](https://itpcas.cas.cn/new_skjs/new_xrld/202311/t20231103_6915472.html). Prior to this, I received my Bachelor's degree in Geographic Information Science at Xi'an University of Science and Technology, where I graduated with honors as an Outstanding Graduate with an Outstanding Thesis
 
 **Goal:** Apply deep reinforcement learning to solve complex problems in earth systems science.
 
-**Research Interest:** GeoAI | Deep reinforcement learning | earth system science | hyperspectral image processing
+**Research Interest:** GeoAI、 Deep reinforcement learning 、 earth system science 、 hyperspectral image processing
 
 **Research Question:** How can we use reinforcement learning to play a greater role in Earth system decision-making?
 
 **Passion:** I am passionate about using AI and data-driven approaches to address critical challenges in geosciences and environmental systems.
 
 Email: peter.org3s@gmail.com
-
 
 
 ## News 
